@@ -1,23 +1,32 @@
-<h1 align="center">👋 Olá, eu sou Bruno</h1>
+# 👋 Olá, eu sou Bruno
 
-<p align="center">
-  💻 Estudante de Análise e Desenvolvimento de Sistemas | 🌍 Apaixonado por Tecnologia
-</p><br><br>
+## 💼 Perfil Profissional
 
+- 💻 Estudante de Programação
+- 🌱 Apaixonado por Tecnologia
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas - IFPR
 
-## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=python,c)](https://skillicons.dev)<br><br>
+## 🚀 Habilidades
 
-## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github)](https://skillicons.dev)<br><br>
+Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
 
-<!--## 📫 Contato
+## 👨‍💻 Linguagens: 
+[![My Skills](https://skillicons.dev/icons?i=delphi,python,c)](https://skillicons.dev)
 
-[![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{SeuEmail})
-[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/devellendias/)
+## 🧰 Frameworks: 
+[![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+
+## 🗄️ Bancos de Dados: 
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+## ⚙️ Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudiocode)](https://skillicons.dev)<br><br>
+
+## 📫 Contato
+
+![Gmail Badge](https://img.shields.io/badge/-brunocandidoliveira@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunocandidoliveira@gmail.com)
+<!--[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/devellendias/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}) <br><br>
 
+![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=dark) <br><br>-->
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=radical)-->
-
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
