@@ -3,7 +3,7 @@
 ## 💼 Perfil Profissional
 
 - 💻 Estudante de Programação
-- 🌱 Apaixonado por Tecnologia
+- 🌱 Back-end
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - IFPR
 
 ## 🚀 Habilidades
