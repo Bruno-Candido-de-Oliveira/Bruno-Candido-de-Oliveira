@@ -2,7 +2,7 @@
 
 ## 💼 Perfil Profissional
 
-- 💻 Estudante de Programação
+- 💻 Professor em transição de carreira para a área de tecnologia
 - 🌱 Back-end
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - IFPR
 
