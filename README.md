@@ -29,6 +29,6 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 [![iuricode](https://github-readme-stats.vercel.app/api?username=Bruno-Candido-de-Oliveira&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Candido-de-Oliveirae&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br><br>
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Candido-de-Oliveira&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br><br>
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
