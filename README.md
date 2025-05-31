@@ -27,8 +27,8 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 <!--[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/devellendias/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}) <br><br>-->
 
-[![iuricode](https://github-readme-stats.vercel.app/api?username=Bruno-Candido-de-Oliveira&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Bruno-Candido-de-Oliveira/Bruno-Candido-de-Oliveira](https://github-readme-stats.vercel.app/api?username=Bruno-Candido-de-Oliveira&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Candido-de-Oliveira&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br><br>
+[![Bruno-Candido-de-Oliveira/Bruno-Candido-de-Oliveira](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Candido-de-Oliveira&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br><br>
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
