@@ -11,7 +11,7 @@
 Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
 
 ## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=python,csharp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs)](https://skillicons.dev)
 
 ## 🧰 Frameworks: 
 [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
