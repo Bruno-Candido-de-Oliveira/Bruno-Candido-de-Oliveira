@@ -27,9 +27,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 
 
-[![]([https://raw.githubusercontent.com/Bruno-Candido-de-Oliveira/github-profile-summary-cards-example/master/profile-summary-card-output/transparent/0-profile-details.svg](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bruno-Candido-de-Oliveira&theme=transparent))](https://github.com/Bruno-Candido-de-Oliveira/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Bruno-Candido-de-Oliveira/github-profile-summary-cards-example/master/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/Bruno-Candido-de-Oliveira/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Bruno-Candido-de-Oliveira/github-profile-summary-cards-example/master/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/Bruno-Candido-de-Oliveira/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Bruno-Candido-de-Oliveira/github-profile-summary-cards-example/master/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/Bruno-Candido-de-Oliveira/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Bruno-Candido-de-Oliveira/github-profile-summary-cards-example/master/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/Bruno-Candido-de-Oliveira/github-profile-summary-cards)
+[](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bruno-Candido-de-Oliveira&theme=transparent)
 
 
 
