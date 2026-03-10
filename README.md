@@ -25,5 +25,5 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 ![Gmail Badge](https://img.shields.io/badge/-brunocandidoliveira@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunocandidoliveira@gmail.com)
 
-![Bruno-Candido-de-Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username={usuario}&show_icons=true&theme=synthwave)
+![Bruno-Candido-de-Oliveira stats](https://github-readme-stats.vercel.app/api?username={usuario}&show_icons=true&theme=synthwave)
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
