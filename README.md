@@ -25,7 +25,11 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 ![Gmail Badge](https://img.shields.io/badge/-brunocandidoliveira@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunocandidoliveira@gmail.com)
 
-![](https://raw.githubusercontent.com/Bruno-Candido-de-Oliveira/github-card-template/master/profile-summary-card-output/react/0-profile-details.svg)
+
+[![](https://raw.githubusercontent.com/Bruno-Candido-de-Oliveira/github-card-template/master/profile-summary-card-output/react/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Bruno-Candido-de-Oliveira/github-card-template/master/profile-summary-card-output/react/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Bruno-Candido-de-Oliveira/github-card-template/master/profile-summary-card-output/react/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Bruno-Candido-de-Oliveira/github-card-template/master/profile-summary-card-output/react/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Bruno-Candido-de-Oliveira/github-card-template/master/profile-summary-card-output/react/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
       
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
