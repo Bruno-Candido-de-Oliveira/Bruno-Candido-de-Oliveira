@@ -27,8 +27,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 
 
-[](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bruno-Candido-de-Oliveira&theme=transparent)
-
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bruno-Candido-de-Oliveira&theme=transparent)
 
 
       
