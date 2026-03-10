@@ -13,7 +13,7 @@ Atualmente estou focado em desenvolvimento de aplicações **Web e Mobile**, uti
 - **JavaScript / TypeScript** para aplicações modernas
 - **React e React Native** para interfaces web e mobile
 
-Tenho interesse especial em criar **sistemas que resolvam problemas do dia a dia**, com foco em educação, produtividade e análise de comportamento digital.
+Tenho interesse especial em criar **sistemas que resolvam problemas do dia a dia**, com foco em educação e produtividade.
 
 ## 🚀 Habilidades
 
