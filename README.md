@@ -2,9 +2,18 @@
 
 ## 💼 Perfil Profissional
 
-- 💻 Professor em transição de carreira para a área de tecnologia
-- 🌱 Back-end
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas - IFPR
+💻 Professor em transição para a área de tecnologia  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas – IFPR
+
+## 🎯 Foco Atual
+
+Atualmente estou focado em desenvolvimento de aplicações **Web e Mobile**, utilizando principalmente:
+
+- **Python e Django** para backend
+- **JavaScript / TypeScript** para aplicações modernas
+- **React e React Native** para interfaces web e mobile
+
+Tenho interesse especial em criar **sistemas que resolvam problemas do dia a dia**, com foco em educação, produtividade e análise de comportamento digital.
 
 ## 🚀 Habilidades
 
